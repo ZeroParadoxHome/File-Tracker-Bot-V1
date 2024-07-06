@@ -14,12 +14,18 @@ FileTrackerBot is a Telegram bot that monitors specified folders for new files a
 Send the following commands to the bot:
 
 `/start`: Display welcome message and instructions
-`/files: Display files in the specified folders`
-`/check: Manually check for new files`
-`/download [file_path]: Download a specific file`
-`/delete [file_path]: Delete a specific file`
-`/all: Download all available media files`
-`/zip: Create zip files containing files from specified folders`
+
+`/files`: Display files in the specified folders
+
+`/check`: Manually check for new files
+
+`/download` [file_path]: Download a specific file
+
+`/delete` [file_path]: Delete a specific file
+
+`/all`: Download all available media files
+
+`/zip`: Create zip files containing files from specified folders
 
 ## Setup
 
