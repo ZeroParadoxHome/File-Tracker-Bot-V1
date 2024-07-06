@@ -13,7 +13,7 @@ FileTrackerBot is a Telegram bot that monitors specified folders for new files a
 ## Usage
 Send the following commands to the bot:
 
-`/start: Display welcome message and instructions`
+`/start`: Display welcome message and instructions
 `/files: Display files in the specified folders`
 `/check: Manually check for new files`
 `/download [file_path]: Download a specific file`
