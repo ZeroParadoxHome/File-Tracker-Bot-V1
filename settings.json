@@ -4,8 +4,6 @@
     "bot_token": "",
     "admin_user_id": 123,
     "folder_paths": [
-        "/root/Path1",
-        "/root/Path2",
-        "/root/Path3"
+        "/root/Path1"
     ]
 }
