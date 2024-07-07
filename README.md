@@ -30,6 +30,11 @@ Send the following commands to the bot:
 ## Setup
 
 1. Clone this repository
+
+```bash
+git clone https://github.com/ZeroParadoxHome/File-Tracker-Bot-V1.git
+```
+
 2. Install dependencies:
 
 ```bash
@@ -44,8 +49,7 @@ pip install -r requirements.txt
     "bot_token": "YOUR_BOT_TOKEN",
     "admin_user_id": YOUR_USER_ID,
     "folder_paths": [
-        "/path/to/folder1",
-        "/path/to/folder2"
+        "/path/to/folder1"
     ]
 }
 ```
