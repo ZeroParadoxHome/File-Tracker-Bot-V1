@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 
 3. Create a `settings.json` file with your Telegram API credentials and bot token:
+
 ```json
 {
     "api_id": "YOUR_API_ID",
